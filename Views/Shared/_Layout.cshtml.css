@@ -48,5 +48,5 @@ button.accept-policy {
 }
 
   .hover-effect:hover {
-    color: #ffc107; /* Cor que deseja quando o mouse estiver sobre o link */
+    color: #4542f5; /* Cor que deseja quando o mouse estiver sobre o link */
     transition: color 0.3s ease; /* Transição suave de cor ao passar o mouse */
