@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XXZfejC1UuY=",
+  "dgSpecHash": "+KNdfrzJ3h8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matheus\\Documents\\ETEC\\2°SEM\\DS\\ApiMvc\\ApiMvc.csproj",
+  "projectFilePath": "C:\\Users\\Matheus\\OneDrive\\Documentos\\ETEC\\2°SEM\\DS\\ApiMvc\\ApiMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.6\\microsoft.aspnetcore.jsonpatch.8.0.6.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.6\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.6.nupkg.sha512",
